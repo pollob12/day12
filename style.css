@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{ 
+    text-align:right;
+    text-decoration: line-through;
+    color: red;
+    text-shadow: 3px;
+    
+}
+p{
+    color: rgb(243, 31, 137);
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: teal;
+    
+} 
+h2{
+    text-align: left;
+    text-decoration-color: white;
+    color: tomato;
+    text-shadow: transparent; 
+
+    line-height: 14px; 
+} 
+
+h3{
+    text-align: right;
+    color: blue;
+    text-decoration: underline; 
+
+} 
+p1{
+    text-align: initial;
+    text-decoration: inline;
+    color: green;
+    text-shadow: hotpink;
+} 
+h5{
+    text-align: left;
+    color: darkblue;
+    text-decoration: inherit;
+    text-overflow: ellipsis;
+}
